@@ -4,4 +4,4 @@
 - lombok模板的使用
 - thymeleaf模板的使用
 - devtools热部署
--mock模拟请求设置
+- mock模拟请求设置
